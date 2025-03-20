@@ -3,6 +3,10 @@
 ## Introduction
 This is a rechargeable power supply/battery simulator for the Heathkit IT-121 Transistor/FET tester. The goal is to replace the D cells with a rechargeable commodity solution. In this case, 18650 cells.
 
+<picture>
+  <img alt="Heathkit IT-121" src="https://github.com/chadr/Heathkit-IT-121-Power-Supply/blob/main/IMAGES/IT-121.jpg">
+</picture>
+
 ## Special Thanks to PCBWay!
 Thanks to PCBWay for sponsoring this project! The folks at PCBWay are great friends to the maker community. Niche projects like this would not be possible without their support!
 
