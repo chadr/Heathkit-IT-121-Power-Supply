@@ -1,0 +1,24 @@
+08-17 09:31:14 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 647:Plugin executed on: 'win32'
+08-17 09:31:14 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 648:Plugin executed with python version: '3.11.5 (main, Jul 16 2024, 08:01:06) [MSC v.1939 64 bit (AMD64)]'
+08-17 09:31:14 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 649:KiCad build version: 8.0.4
+08-17 09:31:14 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 650:Plugin version: 3.0.0
+08-17 09:31:14 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 651:Frame repr: <wx._core.Frame object at 0x000001F3A67804C0>
+08-17 09:31:14 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+08-17 09:31:14 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J2 on root level
+08-17 09:31:14 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint F1 on root level
+08-17 09:31:14 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C** on root level
+08-17 09:31:14 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J3 on root level
+08-17 09:31:14 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IC1 on root level
+08-17 09:31:14 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C2 on root level
+08-17 09:31:14 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint BT1 on root level
+08-17 09:31:14 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D1 on root level
+08-17 09:31:14 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D3 on root level
+08-17 09:31:14 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J1 on root level
+08-17 09:31:14 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C1 on root level
+08-17 09:31:14 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R1 on root level
+08-17 09:31:14 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D2 on root level
+08-17 09:31:27 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 830:Reference designator is: IC
+08-17 09:31:27 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 831:Reference number is: 1
+08-17 09:31:27 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 863:Sorted and filtered list:
+['IC1']
+08-17 09:31:27 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 359:wx.Colour(240, 240, 240, 255)

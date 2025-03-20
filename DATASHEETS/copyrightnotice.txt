@@ -1,0 +1,5 @@
+NOTE
+
+These datasheets do not fall under the project license. 
+
+They are copyright (r) their respective owners.

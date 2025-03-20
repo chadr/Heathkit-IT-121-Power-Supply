@@ -1,0 +1,19 @@
+.1043 :1 ;KEYSTONE - 1043 - BATTERY HOLDER, 18650, TH
+"1043"
+*STM U
+*NGS
+*PNM 1=1 2=2 3=MH1 4=MH2 5=MH3
+*PLB 1="+" 2="-" 3="MH1" 4="MH2" 5="MH3"
+*MXP 5
+*DFN 1043
+~!Manufacturer_Name (Keystone Electronics)
+~!Manufacturer_Part_Number (1043)
+~!Mouser Part Number (534-1043)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/1043?qs=%2F7TOpeL5Mz6j%2FnxeOA1rsg%3D%3D)
+~!Arrow Part Number (1043)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/1043/keystone-electronics?region=europe)
+~!Link Datasheet (http://www.keyelco.com/product-pdf.cfm?p=919)
+~!Height (14.86mm)
+~!3D_Model (1043)
+"1043"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

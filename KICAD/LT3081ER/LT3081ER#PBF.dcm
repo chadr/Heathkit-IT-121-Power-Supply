@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT3081ER#PBF
+D 1.5A Single Resistor Rugged Linear Regulator with Monitors
+K
+F http://cds.linear.com/docs/en/datasheet/3081fc.pdf
+$ENDCMP
+#
+#End Doc Library

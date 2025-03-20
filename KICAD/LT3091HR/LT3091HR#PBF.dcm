@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT3091HR#PBF
+D LDO Regulator Neg 0V to -32V 1.5A Automotive 8-Pin(7+Tab) DDPAK Tube
+K
+F https://www.arrow.com/en/products/lt3091hrpbf/analog-devices
+$ENDCMP
+#
+#End Doc Library

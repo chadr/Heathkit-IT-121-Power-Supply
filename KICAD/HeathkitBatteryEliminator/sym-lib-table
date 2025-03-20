@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCP73213T")(type "KiCad")(uri "C:/Users/chadr/Downloads/KiCad Projects/HeathkitBatteryEliminator/MCP73213T/2024-09-30_01-08-13.kicad_sym")(options "")(descr ""))
+  (lib (name "LT3081")(type "KiCad")(uri "C:/Users/chadr/Downloads/KiCad Projects/HeathkitBatteryEliminator/LT3081ER/LT3081ER#PBF.kicad_sym")(options "")(descr ""))
+  (lib (name "LT3091")(type "KiCad")(uri "C:/Users/chadr/Downloads/KiCad Projects/HeathkitBatteryEliminator/LT3091HR/LT3091HR#PBF.kicad_sym")(options "")(descr ""))
+  (lib (name "WurthCap")(type "KiCad")(uri "C:/Users/chadr/Downloads/KiCad Projects/HeathkitBatteryEliminator/LIB_865080343009/865080343009.kicad_sym")(options "")(descr ""))
+  (lib (name "pcie")(type "KiCad")(uri "C:/Users/chadr/Downloads/KiCad Projects/Molex PCI-E/45558-0003.kicad_sym")(options "")(descr ""))
+)
