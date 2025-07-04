@@ -51,3 +51,5 @@ The IT-121 has some fatal flaws.
 
 ## Misc Assembly Notes
 The power status LED is required for proper regulation. It draws the minimum load current for both regulators.
+
+<img alt="PCBWay IT-121 PCB" src="https://github.com/chadr/Heathkit-IT-121-Power-Supply/blob/main/IMAGES/ASSEMBLED.jpg?raw=true>
